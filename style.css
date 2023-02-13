@@ -78,7 +78,7 @@ body {
 
 }
 
-.passord{
+.password{
     height: 60px;
     background-color: rgba(0,0,0, 0.40);
     border-radius: 4px;
@@ -92,7 +92,7 @@ body {
 
 }
 
-.passord:hover{
+.password:hover{
     transform: scale(1.05);
 
 }
