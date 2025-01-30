@@ -106,4 +106,4 @@ A gestão de resíduos e a eficiência energética são essenciais para o sucess
 
 Implementar essas dicas pode parecer desafiador, mas os benefícios a longo prazo superam os esforços iniciais. A mudança começa com pequenas ações que, juntas, podem fazer uma grande diferença. Para mais informações sobre como otimizar seu negócio, acesse os recursos disponíveis no portal do SEBRAE e aproveite as oportunidades de capacitação.
 
-Made with [VideoToBlog](https://www.videoToBlog.ai)
+
